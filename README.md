@@ -1,7 +1,7 @@
 # Sample_GBDB
 Contains Sample data from the BYU Grain Boundary Data Base
 <br> <br>
-100 of 7304 minimized Al GB structures
+100/7304 minimized Al GB structures
 <br> <br>
 The original dataset contains 7304 GBs. There is not systematic way of sampiling the dataset. <br>
 The terminal command: $find . -maxdepth 1 -type f |head -100|xargs cp -t "$destdir" <br>
